@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 char * MakerIFTTT_Event = "Accident";
-char * MakerIFTTT_Key = "ZRp8Dg3RtdlV3NcBM5ncVYTUX7M7vtJIJCO2ZgH_Nx";
+char * MakerIFTTT_Key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 char * hostDomain = "maker.ifttt.com";
 const int hostPort = 80;
 
